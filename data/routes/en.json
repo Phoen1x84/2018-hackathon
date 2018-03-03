@@ -1,0 +1,25 @@
+{
+  "name": "home",
+  "displayName": "Home",
+  "placeholders": {
+    "main": [
+      {
+        "componentName": "Orbs"
+      },
+      {
+        "componentName": "Email",
+        "fields": {
+          "labelText": {
+            "value": "Email Address"
+          },
+          "placeholder": {
+            "value": "Enter your email address"
+          },
+          "buttonText": {
+            "value": "Create now"
+          }
+        }
+      }
+    ]
+  }
+}
